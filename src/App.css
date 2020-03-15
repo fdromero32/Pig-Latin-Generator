@@ -1,0 +1,86 @@
+* {
+  font-family: 'Solway', serif;
+}
+
+body {
+  margin: 4em;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  text-align: center;
+  background-image: url("https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip3KntgfAbAo/v1/-999x-999.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+}
+
+button {
+  margin: 1em;
+  border-radius: .25em;
+  font-size: 75%;
+  padding: 1em;
+}
+
+footer {
+  padding: 2em;
+}
+
+#butcherPig {
+  width: 400px;
+}
+
+#pigImage {
+  text-align: center;
+}
+
+#inputPhrase {
+  font-size: 1em;
+  height: 5em;
+  width: 20em;
+  text-align: center;
+}
+
+.box {
+  background-color: pink;
+  color: #fff;
+  border-radius: 500px;
+  padding: 0.25em;
+  font-size: 150%;
+
+}
+
+.header {
+  background-color: #FFF;
+  padding: 1em;
+}
+
+
+.button {
+  display: inline-block;
+  padding: 0.7em 1.4em;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.15em;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #FFFFFF;
+  background-color: #772907;
+  box-shadow: inset 0 -0.6em 0 -0.35em rgba(0, 0, 0, 0.17);
+  text-align: center;
+  position: relative;
+}
+
+.button {
+  top: 0.1em;
+}
+
+@media all and (max-width:30em) {
+  a.button6 {
+    display: block;
+    margin: 0.4em auto;
+  }
+}
